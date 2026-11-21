@@ -1,0 +1,7 @@
+# Runtime dependencies for inference and evaluation.
+# Install the PyTorch build matching your platform from https://pytorch.org/
+# first if the default wheel is not suitable.
+torch>=2.0
+numpy>=1.21
+tifffile>=2021.11.2
+Pillow>=9.0

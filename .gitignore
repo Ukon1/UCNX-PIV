@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated predictions and metrics
+outputs*/
+*.npy

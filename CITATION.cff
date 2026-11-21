@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository. The paper citation will be added upon publication."
+title: "UCNX-PIV: inference release for teacher-guided trajectory consistency learning"
+abstract: >-
+  Inference code and trained weights for UnConvNeXt-PIV (UCNX-PIV), an
+  unsupervised ConvNeXt-based particle image velocimetry model.  The release
+  includes five sample image pairs for a quick code check.
+type: software
+authors:
+  - family-names: Xiao
+    given-names: Zhifeng
+    affiliation: "Key Laboratory of Electromagnetic Wave Information Technology and Metrology of Zhejiang Province, College of Information Engineering, China Jiliang University, Hangzhou 310018, China"
+  - family-names: Hong
+    given-names: Bo
+    affiliation: "Key Laboratory of Electromagnetic Wave Information Technology and Metrology of Zhejiang Province, College of Information Engineering, China Jiliang University, Hangzhou 310018, China"
+  - family-names: Shan
+    given-names: Liang
+    affiliation: "Key Laboratory of Electromagnetic Wave Information Technology and Metrology of Zhejiang Province, College of Information Engineering, China Jiliang University, Hangzhou 310018, China"
+version: 1.0.0
+date-released: 2026-11-20
+license: other
+license-url: "https://github.com/Ukon1/UCNX-PIV/blob/main/LICENSE"
+keywords:
+  - particle image velocimetry
+  - optical flow
+  - unsupervised learning
+  - ConvNeXt
+  - RAFT-PIV
